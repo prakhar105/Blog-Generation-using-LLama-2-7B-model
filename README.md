@@ -9,4 +9,5 @@ uv sync
 ```
 streamlit run app.py
 ```
-![Screenshot 2024-09-30 161147](https://github.com/user-attachments/assets/2bc39ecb-4f67-4586-a21e-abda9808f26a)
+
+![Result](./imgs/img_1.png)
